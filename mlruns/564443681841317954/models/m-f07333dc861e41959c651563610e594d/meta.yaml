@@ -1,0 +1,10 @@
+artifact_location: file:///D:/MLOPS/Airlines-Customer-Satisfaction-Preduction/mlruns/564443681841317954/models/m-f07333dc861e41959c651563610e594d/artifacts
+creation_timestamp: 1756052574840
+experiment_id: '564443681841317954'
+last_updated_timestamp: 1756052591383
+model_id: m-f07333dc861e41959c651563610e594d
+model_type: null
+name: model
+source_run_id: 0765e581886a4fd3be9b466e8719364b
+status: 2
+status_message: null

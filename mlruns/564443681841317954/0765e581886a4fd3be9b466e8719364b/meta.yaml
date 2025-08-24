@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOPS/Airlines-Customer-Satisfaction-Preduction/mlruns/564443681841317954/0765e581886a4fd3be9b466e8719364b/artifacts
+end_time: 1756052591426
+entry_point_name: ''
+experiment_id: '564443681841317954'
+lifecycle_stage: active
+run_id: 0765e581886a4fd3be9b466e8719364b
+run_name: dapper-ram-41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756052418953
+status: 3
+tags: []
+user_id: '91844'

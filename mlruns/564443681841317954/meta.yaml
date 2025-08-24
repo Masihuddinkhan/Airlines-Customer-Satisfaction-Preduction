@@ -1,0 +1,6 @@
+artifact_location: file:///D:/MLOPS/Airlines-Customer-Satisfaction-Preduction/mlruns/564443681841317954
+creation_time: 1756052415904
+experiment_id: '564443681841317954'
+last_update_time: 1756052415904
+lifecycle_stage: active
+name: Model_Training_Experiment
